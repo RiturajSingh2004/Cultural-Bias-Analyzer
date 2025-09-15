@@ -29,7 +29,7 @@ Start with 4–6 culturally diverse languages for feasibility (expand later):
 - Arabic — MENA  
 - Spanish — Latin America  
 - Chinese (Simplified) — East Asia  
-
+- Russian — Eastern Europe
 ---
 
 ## 📦 Deliverables
