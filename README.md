@@ -1,5 +1,5 @@
 # Cultural-Bias-Analyzer
-Cultural Bias Analysis in LLMs and bias auditing toolkit
+## Cultural Bias Analysis in LLMs and bias auditing toolkit
 
 ## CultureBIAS Project Directory Structure
 
