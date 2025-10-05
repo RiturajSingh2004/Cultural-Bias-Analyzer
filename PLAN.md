@@ -23,7 +23,7 @@
 
 ## 🌍 Scope & Target Cultures/Languages
 Start with 4–6 culturally diverse languages for feasibility (expand later):
-- English (US/UK) — Western  
+- English — General  
 - Hindi — South Asia  
 - Arabic — MENA  
 - Spanish — Latin America  
