@@ -25,7 +25,6 @@
 Start with 4–6 culturally diverse languages for feasibility (expand later):
 - English (US/UK) — Western  
 - Hindi — South Asia  
-- Tamil — Dravidian  
 - Arabic — MENA  
 - Spanish — Latin America  
 - Chinese (Simplified) — East Asia  
